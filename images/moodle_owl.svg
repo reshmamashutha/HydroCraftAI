@@ -1,0 +1,43 @@
+<svg id="ee-sova-loader" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500"
+     shape-rendering="geometricPrecision" text-rendering="geometricPrecision" style="background-color:transparent">
+    <style><![CDATA[
+#ee-sova-loader-u-browr_to{animation:10s linear 2s 10 forwards ee-sova-loader-u-browr_to__to}@keyframes ee-sova-loader-u-browr_to__to{0%,100%,23%,28%{transform:translate(250px,238.21px)}26%{transform:translate(266px,239.029591px)}}#ee-sova-loader-u-browr_tr{animation:10s linear 2s 10 forwards ee-sova-loader-u-browr_tr__tr}@keyframes ee-sova-loader-u-browr_tr__tr{0%,100%,23%,28%{transform:rotate(0)}26%{transform:rotate(-24.356961deg)}}#ee-sova-loader-u-browr_ts{animation:10s linear 2s 10 forwards ee-sova-loader-u-browr_ts__ts}@keyframes ee-sova-loader-u-browr_ts__ts{0%,100%,23%,28%{transform:scale(1,1)}26%{transform:scale(1.096382,.938699)}}#ee-sova-loader-u-eyer_to{animation:10s linear 2s 10 forwards ee-sova-loader-u-eyer_to__to}@keyframes ee-sova-loader-u-eyer_to__to{0%,100%,23%{transform:translate(333.01001px,238.210014px)}5%{transform:translate(310.000008px,238.547004px)}18%{transform:translate(376.000008px,239.445643px)}}#ee-sova-loader-u-eyer_ts{animation:10s linear 2s 10 forwards ee-sova-loader-u-eyer_ts__ts}@keyframes ee-sova-loader-u-eyer_ts__ts{0%,100%,23%,28%{transform:scale(1,1)}26%{transform:scale(1,.08)}}#ee-sova-loader-u-eyel_to{animation:10s linear 2s 10 forwards ee-sova-loader-u-eyel_to__to}@keyframes ee-sova-loader-u-eyel_to__to{0%,100%,23%{transform:translate(166.990005px,238.210014px)}5%{transform:translate(124px,238.547006px)}18%{transform:translate(194.791814px,239.44565px)}}
+]]></style>
+    <g id="ee-sova-loader-u-body">
+        <circle id="ee-sova-loader-s-circle1" r="186" transform="translate(250 256)" fill="#2c6774"/>
+        <path id="ee-sova-loader-s-path1"
+              d="M442,232c0-54.68-44.32-99-99-99-42.72,0-79.13,27.06-93,64.98C236.13,160.06,199.72,133,157,133c-54.68,0-99,44.32-99,99c0,40.83,24.72,75.88,60.01,91.02C138.47,392.63,189.85,442,250,442s111.54-49.38,131.99-118.98C417.28,307.88,442,272.83,442,232Z"
+              fill="#e3f2f8"/>
+    </g>
+    <g id="ee-sova-loader-u-browr_to" transform="translate(250,238.21)">
+        <g id="ee-sova-loader-u-browr_tr" transform="rotate(0)">
+            <g id="ee-sova-loader-u-browr_ts" transform="scale(1,1)">
+                <path id="ee-sova-loader-u-browr"
+                      d="M433,58c-21,43.49-74.73,54.73-118.8,71.82-38.24,14.83-57.03,38.32-64.2,68.16v40.02c95.62,0,174.37-60.28,184.81-137.82.78-5.76,1.19-11.62,1.19-17.55c0-9.64-3-24.63-3-24.63Z"
+                      transform="translate(-249.999992,-238.209992)" fill="#4095a7"/>
+            </g>
+        </g>
+    </g>
+    <path id="ee-sova-loader-u-browl"
+          d="M67,58c21,43.49,74.73,54.73,118.8,71.82c38.24,14.83,57.03,38.32,64.2,68.16v40.02c-95.62,0-174.37-60.28-184.81-137.82C64.41,94.42,64,88.56,64,82.63C64,72.99,67,58,67,58Z"
+          fill="#4095a7"/>
+    <polygon id="ee-sova-loader-u-beak" points="250,359.8 166.99,238.36 250,197.8 333.01,238.36 250,359.8"/>
+    <circle id="ee-sova-loader-u-eyewhiter" r="78" transform="translate(343 232)" fill="#fff"/>
+    <circle id="ee-sova-loader-u-eyewhitel" r="78" transform="translate(157 232)" fill="#fff"/>
+    <path id="ee-sova-loader-u-okular"
+          d="M343,154c43.08,0,78,34.92,78,78s-34.92,78-78,78-78-34.92-78-78s34.92-78,78-78m0-10.8c-23.72,0-46.02,9.24-62.79,26.01s-26.01,39.07-26.01,62.79s9.24,46.02,26.01,62.79s39.07,26.01,62.79,26.01s46.02-9.24,62.79-26.01s26.01-39.07,26.01-62.79-9.24-46.02-26.01-62.79-39.07-26.01-62.79-26.01v0Z"/>
+    <path id="ee-sova-loader-u-okulal"
+          d="M157,154c43.08,0,78,34.92,78,78s-34.92,78-78,78-78-34.92-78-78s34.92-78,78-78m0-10.8c-23.72,0-46.02,9.24-62.79,26.01s-26.01,39.07-26.01,62.79s9.24,46.02,26.01,62.79s39.07,26.01,62.79,26.01s46.02-9.24,62.79-26.01s26.01-39.07,26.01-62.79-9.24-46.02-26.01-62.79-39.07-26.01-62.79-26.01v0Z"/>
+    <g id="ee-sova-loader-u-eyer_to" transform="translate(333.01001,238.210014)">
+        <g id="ee-sova-loader-u-eyer_ts" transform="scale(1,1)">
+            <g id="ee-sova-loader-u-eyer" transform="translate(-333.01001,-238.210014)">
+                <circle id="ee-sova-loader-s-circle2" r="33" transform="translate(333.01 238.21)"/>
+            </g>
+        </g>
+    </g>
+    <g id="ee-sova-loader-u-eyel_to" transform="translate(166.990005,238.210014)">
+        <g id="ee-sova-loader-u-eyel" transform="translate(-166.990005,-238.210014)">
+            <circle id="ee-sova-loader-s-circle3" r="33" transform="translate(166.99 238.21)"/>
+        </g>
+    </g>
+</svg>

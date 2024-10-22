@@ -1,0 +1,112 @@
+{
+    "cameraSetup": {
+        "position": {
+            "x": 0.0,
+            "y": 2.0269999504089357,
+            "z": 2.7720000743865969
+        },
+        "target": {
+            "x": 0.0,
+            "y": 1.7139999866485596,
+            "z": 0.22899997234344483
+        },
+        "fov": 1.0471975803375245,
+        "minZoom": 2.0,
+        "maxZoom": 10.0,
+        "minZ": 0.30000001192092898,
+        "maxZ": 1000.0,
+        "wheelSensitivity": 3.0,
+        "pinchSensitivity": 3.0,
+        "angleLimitLeft": -1.0,
+        "angleLimitRight": -1.0,
+        "angleLimitUp": 45.0,
+        "angleLimitDown": 45.0,
+        "panning": "free"
+    },
+    "flags": [
+        {
+            "position": {
+                "x": 0.0017353296279907227,
+                "y": 3.3251821994781496,
+                "z": 0.19980505108833314
+            },
+            "label": "Main shaft",
+            "text": "The shaft is connected to the shaft of the generator. The mechanical energy of the rotating shaft is converted in an electric generator into a rotation of the rotor and finally converted into electric power.",
+            "direction": "up",
+            "side": "right",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": 0.8157353401184082,
+                "y": 0.43818235397338869,
+                "z": 0.0008050203323364258
+            },
+            "label": "Draft tube",
+            "text": "A tube situated at the bottom of a turbine, which helps increase its output by creating negative pressure at the water outlet of the runner. It leads the water to the lower reservoir. ",
+            "direction": "down",
+            "side": "left",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": -0.26326465606689455,
+                "y": 1.485182285308838,
+                "z": 0.5708050727844238
+            },
+            "label": "Runner blades",
+            "text": "The runner is usually fitted with three to twelve adjustable blades and is reminiscent of a ship propeller. To accommodate to actual rates of flow, the pitch of the runner blades is changed using a mechanism fitted inside the hollow axis of the runner.",
+            "direction": "down",
+            "side": "right",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": 0.5877353549003601,
+                "y": 3.0141820907592775,
+                "z": 0.048805028200149539
+            },
+            "label": "Kaplan turbine",
+            "text": "A reaction water turbine with variable pitch for both the guide vanes (or wicket gates), and the runner blades. It is suitable for hydraulic heads between 5 and 80 meters and rates of flow up to several hundreds of m³/s. The rotation frequency can be precisely adjusted, which is why these turbines are used in places with variable rates of flow. ",
+            "direction": "up",
+            "side": "left",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": 1.015735387802124,
+                "y": 2.161181926727295,
+                "z": 0.057805031538009647
+            },
+            "label": "Did you know?",
+            "text": "he father of the term 'turbine' is the French engineer Claude Bourdin. It was the name for his rotating water engine (in Latin: turbo = rotate) which he constructed in 1826. ",
+            "direction": "down",
+            "side": "left",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": -0.5872646570205689,
+                "y": 2.171182155609131,
+                "z": 0.6368050575256348
+            },
+            "label": "Guide vane mechanism",
+            "text": "Water is led to a turbine via the penstock and through the guide vanes, where it gains speed and alters direction.",
+            "direction": "up",
+            "side": "right",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": 0.2387353479862213,
+                "y": 4.934182167053223,
+                "z": 0.6568050384521484
+            },
+            "label": "Generator",
+            "text": "scene:generator",
+            "direction": "up",
+            "side": "right",
+            "length": 0.5
+        }
+    ]
+}

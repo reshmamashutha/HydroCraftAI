@@ -1,0 +1,88 @@
+{
+    "cameraSetup": {
+        "position": {
+            "x": 1.3370000123977662,
+            "y": 5.244999885559082,
+            "z": 3.506999969482422
+        },
+        "target": {
+            "x": 0.15000000596046449,
+            "y": 4.8420000076293949,
+            "z": 0.37599998712539675
+        },
+        "fov": 1.0471975803375245,
+        "minZoom": 2.0,
+        "maxZoom": 10.0,
+        "minZ": 0.30000001192092898,
+        "maxZ": 1000.0,
+        "wheelSensitivity": 3.0,
+        "pinchSensitivity": 3.0,
+        "angleLimitLeft": -1.0,
+        "angleLimitRight": -1.0,
+        "angleLimitUp": 50.0,
+        "angleLimitDown": 40.0,
+        "panning": "free"
+    },
+    "flags": [
+        {
+            "position": {
+                "x": 0.0017353296279907227,
+                "y": 3.3251821994781496,
+                "z": 0.19980505108833314
+            },
+            "label": "Main shaft",
+            "text": "The shaft is connected to the shaft of the generator. The mechanical energy of the rotating shaft is converted in an electric generator into a rotation of the rotor and finally converted into electric power.",
+            "direction": "down",
+            "side": "left",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": -0.6712646484375,
+                "y": 4.943181991577148,
+                "z": 0.9848049879074097
+            },
+            "label": "Output",
+            "text": "The output of the Kaplan turbine ranges from 5 to 200 MW. ",
+            "direction": "up",
+            "side": "right",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": 0.5437353253364563,
+                "y": 5.558182239532471,
+                "z": 0.6438050270080566
+            },
+            "label": "Electric generator ",
+            "text": "A device for transforming the mechanical energy of the turning rotor into electric energy through electromagnetic induction. Due to the lower rotation frequency of water turbines, generators in hydroelectric power plants are much larger than generators of the same output in thermal power plants. ",
+            "direction": "up",
+            "side": "left",
+            "length": 0.75
+        },
+        {
+            "position": {
+                "x": 0.6447353363037109,
+                "y": 4.880182266235352,
+                "z": 0.5708050727844238
+            },
+            "label": "Rotor",
+            "text": "Due to the lower rotation frequency of water turbines, rotors in hydroelectric power plants are much larger than generators of the same output in thermal power plants.",
+            "direction": "down",
+            "side": "left",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": -0.026264667510986329,
+                "y": 1.6501822471618653,
+                "z": 0.013805031776428223
+            },
+            "label": "Kaplan turbine",
+            "text": "scene:kaplan",
+            "direction": "down",
+            "side": "right",
+            "length": 0.5
+        }
+    ]
+}

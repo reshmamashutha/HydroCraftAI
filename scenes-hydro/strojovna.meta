@@ -1,0 +1,124 @@
+{
+    "cameraSetup": {
+        "position": {
+            "x": 27.779998779296876,
+            "y": -27.75,
+            "z": -1.3600000143051148
+        },
+        "target": {
+            "x": -0.9700000286102295,
+            "y": -30.630001068115236,
+            "z": -1.3600000143051148
+        },
+        "fov": 1.0471975803375245,
+        "minZoom": 5.0,
+        "maxZoom": 150.0,
+        "minZ": 0.30000001192092898,
+        "maxZ": 1000.0,
+        "wheelSensitivity": 35.0,
+        "pinchSensitivity": 35.0,
+        "angleLimitLeft": 40.0,
+        "angleLimitRight": 40.0,
+        "angleLimitUp": 80.0,
+        "angleLimitDown": 30.0,
+        "panning": "sideways"
+    },
+    "flags": [
+        {
+            "position": {
+                "x": -10.041264533996582,
+                "y": -22.52581787109375,
+                "z": 18.09380531311035
+            },
+            "label": "Transformer",
+            "text": "An electric device for increasing the voltage of the electricity produced to the voltage of the power grid so as to minimize loss during transmission. ",
+            "direction": "up",
+            "side": "right",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": -3.8812644481658937,
+                "y": -42.38581848144531,
+                "z": -68.42619323730469
+            },
+            "label": "Intake object",
+            "text": "A structure that directs water from the reservoir into the penstock. It incorporates screens and gates, which can stop the water flow to the turbines. ",
+            "direction": "up",
+            "side": "left",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": 0.008735328912734986,
+                "y": -32.815818786621097,
+                "z": 2.683804988861084
+            },
+            "label": "Generator",
+            "text": "scene:generator",
+            "direction": "up",
+            "side": "right",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": -42.5612678527832,
+                "y": -4.725818157196045,
+                "z": -51.35619354248047
+            },
+            "label": "Dam wall",
+            "text": "A barrier built across a stream of water so as to dam it, increasing the hydraulic head, and storing the water needed for running the turbines. The biggest dams, holding the most water, are built for accumulation for hydroelectric power plants. Dams can be categorized as gravitational if the sheer weight of the dam retains the water. Other types are concrete arch dams or pillar-supported dams. ",
+            "direction": "up",
+            "side": "right",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": 0.008735328912734986,
+                "y": -41.5758171081543,
+                "z": 2.683804988861084
+            },
+            "label": "Kaplan turbine",
+            "text": "scene:kaplan",
+            "direction": "down",
+            "side": "right",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": 0.008735328912734986,
+                "y": -48.34581756591797,
+                "z": 2.6438050270080568
+            },
+            "label": "Draft tube",
+            "text": "A tube situated at the bottom of a turbine, which helps increase its output by creating negative pressure at the water outlet of the runner.  ",
+            "direction": "down",
+            "side": "left",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": -26.46126365661621,
+                "y": -2.095818042755127,
+                "z": -101.92619323730469
+            },
+            "label": "Storage reservoir ",
+            "text": "A reservoir enclosed by the dam and the slopes of the river valley. It can hold an enormous volume of water. The level of water in the reservoir and the rate of flow at the dam are controllable. ",
+            "direction": "up",
+            "side": "left",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": -2.4412646293640138,
+                "y": -41.41581726074219,
+                "z": -39.246192932128909
+            },
+            "label": "Penstock",
+            "text": "A channel leading pressurized water from the reservoir to the turbines of the hydroelectric powerplant. ",
+            "direction": "up",
+            "side": "left",
+            "length": 0.5
+        }
+    ]
+}

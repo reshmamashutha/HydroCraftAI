@@ -1,0 +1,54 @@
+{
+    "startupSceneName": "areal",
+    "didYouKnowTexts": [
+        "The father of the term turbine is the French engineer Claude Bourdin. It was the name for his rotating water engine (in Latin: turbo = rotate) which he constructed in 1826.",
+        "The highest dam worldwide is currently Jinping-I with 305 m high concreate arch-shaped dam in China on river Yalong.",
+        "The biggest Francis turbines were made for the Three Gorges hydroelectric power plant in China. The runners have a diameter of 10 m and an output capacity of up to 760 MW."
+    ],
+    "description": "The 3D model of renewable sources: the hydropower plant with concrete dam and Kaplan turbine; and the pump-storage hydropower plant with Francis turbine.",
+    "moodleUrl": "https://learning.energyencyclopedia.com/mod/quiz/view.php?id=28",
+    "scenes": [
+        {
+            "name": "areal",
+            "title": "Hydropower plant",
+            "loaderTitle": "Hydropower plant",
+            "parent": "",
+            "image": "data-hydro/images/areal.jpg"
+        },
+        {
+            "name": "francis",
+            "title": "Francis turbine",
+            "loaderTitle": "Francis turbine",
+            "parent": "areal",
+            "image": "data-hydro/images/francis.jpg"
+        },
+        {
+            "name": "generator",
+            "title": "Generator",
+            "loaderTitle": "Generator",
+            "parent": "strojovna",
+            "image": "data-hydro/images/generator.jpg"
+        },
+        {
+            "name": "kaplan",
+            "title": "Kaplan turbine",
+            "loaderTitle": "Kaplan turbine",
+            "parent": "strojovna",
+            "image": "data-hydro/images/kaplan.jpg"
+        },
+        {
+            "name": "nadrz",
+            "title": "Pumped storage",
+            "loaderTitle": "Pumped storage",
+            "parent": "areal",
+            "image": "data-hydro/images/nadrz.jpg"
+        },
+        {
+            "name": "strojovna",
+            "title": "Power house",
+            "loaderTitle": "Power house",
+            "parent": "areal",
+            "image": "data-hydro/images/strojovna.jpg"
+        }
+    ]
+}

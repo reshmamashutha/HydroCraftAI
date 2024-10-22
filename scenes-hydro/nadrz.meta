@@ -1,0 +1,64 @@
+{
+    "cameraSetup": {
+        "position": {
+            "x": 27.299999237060548,
+            "y": 56.29999923706055,
+            "z": 81.80000305175781
+        },
+        "target": {
+            "x": -93.30000305175781,
+            "y": -5.5,
+            "z": -4.400000095367432
+        },
+        "fov": 1.0471975803375245,
+        "minZoom": 70.0,
+        "maxZoom": 300.0,
+        "minZ": 0.30000001192092898,
+        "maxZ": 1000.0,
+        "wheelSensitivity": 50.0,
+        "pinchSensitivity": 50.0,
+        "angleLimitLeft": 20.0,
+        "angleLimitRight": 80.0,
+        "angleLimitUp": 20.0,
+        "angleLimitDown": 40.0,
+        "panning": "horizontal"
+    },
+    "flags": [
+        {
+            "position": {
+                "x": -125.76126098632813,
+                "y": 32.004180908203128,
+                "z": -0.5261949896812439
+            },
+            "label": "Pumped-storage reservoir",
+            "text": "In times of electricity overproduction, this plant consumes electricity and pumps water from the lower reservoir up to the upper one. When the load peaks, when there is not enough energy in the grid, the accumulated water is released to drive turbines and power generators and returns the accumulated energy back to the grid.   To produce 1 kW of electricity, a pumped storage plant consumes roughly 1,3 kW during the off-peak time.  A significant advantage of pumped-storage power plants is their capacity to quickly change their mode of operation from pumping to power generation within just a few minutes and, in this way, to respond to the actual load situation in the grid dynamically.",
+            "direction": "up",
+            "side": "right",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": -177.06126403808595,
+                "y": -6.695817470550537,
+                "z": -0.02619495987892151
+            },
+            "label": "Intake object ",
+            "text": "A structure that directs water from the reservoir into the penstock. It incorporates screens and gates, which can stop the water flow to the turbines. ",
+            "direction": "down",
+            "side": "right",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": -47.1612663269043,
+                "y": -8.395818710327149,
+                "z": 1.0738049745559693
+            },
+            "label": "Penstock",
+            "text": "A channel leading pressurized water from the reservoir to the turbines of the hydroelectric powerplant. ",
+            "direction": "down",
+            "side": "left",
+            "length": 0.5
+        }
+    ]
+}

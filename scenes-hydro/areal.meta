@@ -1,0 +1,124 @@
+{
+    "cameraSetup": {
+        "position": {
+            "x": 19.020000457763673,
+            "y": 19.889999389648439,
+            "z": 110.70999908447266
+        },
+        "target": {
+            "x": -2.4000000953674318,
+            "y": 4.5,
+            "z": 74.4000015258789
+        },
+        "fov": 1.0471975803375245,
+        "minZoom": 30.0,
+        "maxZoom": 500.0,
+        "minZ": 0.30000001192092898,
+        "maxZ": 2000.0,
+        "wheelSensitivity": 100.0,
+        "pinchSensitivity": 100.0,
+        "angleLimitLeft": 120.0,
+        "angleLimitRight": 45.0,
+        "angleLimitUp": 60.0,
+        "angleLimitDown": 7.0,
+        "panning": "horizontal"
+    },
+    "flags": [
+        {
+            "position": {
+                "x": -28.861265182495118,
+                "y": -8.395818710327149,
+                "z": -50.70619583129883
+            },
+            "label": "Did you know?",
+            "text": "The highest dam worldwide is currently Jinping-I, a305 m high concrete arch-shaped dam in China on the river Yalong. ",
+            "direction": "up",
+            "side": "right",
+            "length": 0.75
+        },
+        {
+            "position": {
+                "x": -791.561279296875,
+                "y": 255.2041778564453,
+                "z": 111.6738052368164
+            },
+            "label": "Pumped storage",
+            "text": "scene:nadrz",
+            "direction": "up",
+            "side": "right",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": -4.061264991760254,
+                "y": -68.39581298828125,
+                "z": 66.8738021850586
+            },
+            "label": "Bedrock",
+            "text": "The rock at the bottom of the river valley. The structure and the properties of this rock are determining factors for the choice of the type of dam to be built. ",
+            "direction": "up",
+            "side": "right",
+            "length": 1.0
+        },
+        {
+            "position": {
+                "x": 23.73873519897461,
+                "y": -3.195817470550537,
+                "z": -54.166194915771487
+            },
+            "label": "Dam wall",
+            "text": "A barrier built across a stream of water so as to dam it, increasing the hydraulic head, and storing the water needed for running the turbines. The biggest dams, holding the most water, are built for accumulation for hydroelectric power plants. Dams can be categorized as gravitational if the sheer weight of the dam retains the water. Other types are concrete arch dams or pillar-supported dams. ",
+            "direction": "up",
+            "side": "right",
+            "length": 0.75
+        },
+        {
+            "position": {
+                "x": -63.96126937866211,
+                "y": -8.335817337036133,
+                "z": 81.6738052368164
+            },
+            "label": "Francis turbine",
+            "text": "scene:francis",
+            "direction": "up",
+            "side": "right",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": 166.53872680664063,
+                "y": -5.89581823348999,
+                "z": -56.326194763183597
+            },
+            "label": "Spillway",
+            "text": "A structural feature in the dam wall that allows safe spilling of surplus water that may otherwise flow over the edge of the dam. ",
+            "direction": "up",
+            "side": "left",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": 21.338735580444337,
+                "y": -2.4958176612854006,
+                "z": -106.92619323730469
+            },
+            "label": "Storage reservoir",
+            "text": "A reservoir enclosed by the dam and the slopes of the river valley. It can hold an enormous volume of water. The level of water in the reservoir and the rate of flow at the dam are controllable. ",
+            "direction": "up",
+            "side": "left",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": 5.138735771179199,
+                "y": -13.145818710327149,
+                "z": -1.0761950016021729
+            },
+            "label": "Power house",
+            "text": "scene:strojovna",
+            "direction": "up",
+            "side": "left",
+            "length": 0.5
+        }
+    ]
+}

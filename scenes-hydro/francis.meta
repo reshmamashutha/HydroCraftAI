@@ -1,0 +1,100 @@
+{
+    "cameraSetup": {
+        "position": {
+            "x": 0.1469999998807907,
+            "y": 1.2890000343322755,
+            "z": 2.9750001430511476
+        },
+        "target": {
+            "x": 0.0,
+            "y": -0.10199975967407227,
+            "z": -0.006000012159347534
+        },
+        "fov": 1.0471975803375245,
+        "minZoom": 2.0,
+        "maxZoom": 15.0,
+        "minZ": 0.30000001192092898,
+        "maxZ": 1000.0,
+        "wheelSensitivity": 3.0,
+        "pinchSensitivity": 3.0,
+        "angleLimitLeft": -1.0,
+        "angleLimitRight": -1.0,
+        "angleLimitUp": 30.0,
+        "angleLimitDown": 60.0,
+        "panning": "free"
+    },
+    "flags": [
+        {
+            "position": {
+                "x": 0.5887353420257568,
+                "y": -0.2778177261352539,
+                "z": 0.1978050172328949
+            },
+            "label": "Did you know?",
+            "text": "The biggest Francis turbines were made for the Three Gorges hydroelectric power plant in China. The runners have a diameter of 10 m and an output capacity of up to 760 MW. ",
+            "direction": "down",
+            "side": "left",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": 0.0037353336811065675,
+                "y": 1.610182285308838,
+                "z": -0.0021949708461761476
+            },
+            "label": "Main shaft",
+            "text": "The shaft is connected to the shaft of the generator. The mechanical energy of the rotating shaft is converted in an electric generator into a rotation of the rotor and finally converted into electric power.",
+            "direction": "up",
+            "side": "right",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": -0.2672646641731262,
+                "y": 0.014182090759277344,
+                "z": 0.6278049945831299
+            },
+            "label": "Guide vanes",
+            "text": "Guide vanes regulate the rate of flow. The guide vanes are controlled by a centralized system that allows simultaneous setting change for all vanes.",
+            "direction": "down",
+            "side": "right",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": -0.05126464366912842,
+                "y": 0.9931821823120117,
+                "z": 0.011805027723312378
+            },
+            "label": "Francis turbine",
+            "text": "Francis turbines are currently the most common water turbine and can achieve over 95% efficiency. They can be used for hydraulic heads between 20 and 700 meters. It is very often installed in pumped-storage hydroelectric power plants (as shown in our 3D scheme).  ",
+            "direction": "up",
+            "side": "left",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": -4.651264190673828,
+                "y": 0.8941822052001953,
+                "z": -1.7351950407028199
+            },
+            "label": "Penstock",
+            "text": "A channel leading pressurized water from the reservoir to the turbines of the hydroelectric powerplant. ",
+            "direction": "up",
+            "side": "right",
+            "length": 0.5
+        },
+        {
+            "position": {
+                "x": 0.7757353782653809,
+                "y": -1.7558178901672364,
+                "z": -0.06619498133659363
+            },
+            "label": "Draft tube",
+            "text": "A tube situated at the bottom of a turbine, which helps increase its output by creating negative pressure at the water outlet of the runner.  ",
+            "direction": "down",
+            "side": "left",
+            "length": 0.5
+        }
+    ]
+}
